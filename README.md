@@ -23,7 +23,7 @@
 </span>
 
 <h3 align="center">💡 Most Used Languages 💡</h3>
-<p align="center">헤헤 전 아직 파이썬만 써요
+<p align="center">전 아직 파이썬만 써요... 자바...a little bit...
 <h3 align="center">💡 Git Stats 💡</h3>
 <p align="center">나중에 추가하기...
 
