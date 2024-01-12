@@ -18,6 +18,7 @@
     <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <!--     <img src="https://img.shields.io/badge/Python-hexcode0101E1?style=flat&logo=python&logoColor=ffffff"/>   -->
    <p align="center">할 줄 아는게 많은 사람 같지만 그냥 배울 예정일 뿐...!
+     <p align="center"> 사실은 할 줄 모른답니다...
   </a>
 </span>
 
