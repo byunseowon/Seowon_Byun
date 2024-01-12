@@ -1,23 +1,19 @@
-# 안녕하세요!😊
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
 
-[header](https://capsule-render.vercel.app/api?type=$waving&color=auto&height=$200&section=header&text=$Hello!😊&fontSize=$50&animation=$twinkling)
+<h2 align="center">HELLO!😊</h2>
+<p align="center">welcome to my github!
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+<h3 align="center">💡 Additional Skills 💡</h3>
 
-<h3 align="center">💡 My Most Used Languages 💡</h3>
-<p align="center">
-  <a href="https://github.com/{Seowon_Byun}">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username={Seowon_Byun}&layout=compact&show_icons={}&show_owner={}&hide_title={ture}&theme={nord}&hide={}" />
+<span>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Python-hexcode0101E1?style=flat&logo=python&logoColor=ffffff"/>
+<!--     <img src="https://img.shields.io/badge/Python-hexcode0101E1?style=flat&logo=python&logoColor=ffffff"/>   -->
   </a>
-</p>
-<h3 align="center">💡 My Git Stats 💡</h3>
-<p align="center">
-  <a href="https://github.com/{Seowon_Byun}">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username={Seowon_Byun}&hide={}&hide_title={ture}&show_icons={}&include_all_commits={}&theme={nord}" />
-  </a>
-</p>
+</span>
 
-<h3 align="center">💡 Current page design story 💡</h3>
-<div align="center" style="text-align:center">
- 
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name={good}&tag={태그}&color={dark})](${링크 url})
+<h3 align="center">💡 Most Used Languages 💡</h3>
+
+<h3 align="center">💡 Git Stats 💡</h3>
+<p align="center">나중에 추가하기...
+
