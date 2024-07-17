@@ -1,10 +1,9 @@
 package com.chill.mallang.domain.war.entity;
 
-import jakarta.persistence.Column;
-import jakarta.persistence.Entity;
-import jakarta.persistence.Id;
-import jakarta.persistence.Table;
+import jakarta.persistence.*;
 import lombok.Data;
+
+import java.util.List;
 
 
 @Entity
@@ -13,10 +12,14 @@ import lombok.Data;
 public class Faction {
     @Id
     @Column(name = "FACTION_ID")
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
     @Column(name = "FACTION_NAME",length = 30)
     private String name;
+
+    @OneToMany(mappedBy = "faction", cascade = CascadeType.ALL, fetch = FetchType.LAZY)
+    private List<User> users;
 
     // Getter, Setter, Constructor
 }

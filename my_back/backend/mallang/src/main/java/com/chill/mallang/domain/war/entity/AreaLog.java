@@ -13,20 +13,20 @@ public class AreaLog {
     @Id // 이 컬럼을 pk 지정
     @Column(name = "id")
     @GeneratedValue(strategy = GenerationType.IDENTITY) // pk 생성규칙. 1씩 자동 증가
-    private long id;
+    private Long id;
 
     @ManyToOne
     @JoinColumn(name = "USER_ID") // USER_ID와 join함
-    private  String user_id;
+    private User user;
 
     @ManyToOne
     @JoinColumn(name = "AREA_ID")
-    private  String area_id;
+    private Area area;
 
     @Column(name = "created_at")
     private Timestamp created_at;
 
     @Column(name = "score")
-    private float score;
+    private Float score;
 }
 
