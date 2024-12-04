@@ -21,9 +21,9 @@
 </span>
 
 <h3 align="center">💡 가장 많이 사용되는 언어 💡</h3>
-<p align="center">파이썬 파이썬
+<p align="center">
 <h3 align="center">💡 Git Stats 💡</h3>
-<palign="center">나중에 추가하기...
+<palign="center">
 
 
 
